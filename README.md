@@ -15,7 +15,7 @@ My fork of the [Primrose](https://github.com/microdotblog/theme-primrose) theme 
 
 **7/10/20**
 
-- Dark mode toggle (7/10/20)
+- Dark mode toggle
 
 
 ### Changes In Progress:
