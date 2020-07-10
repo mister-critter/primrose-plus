@@ -2,7 +2,7 @@
 
 My fork of the [Primrose](https://github.com/microdotblog/theme-primrose) theme for Micro.Blog by Garth Braithwaite and Tim Smith.
 
-A few of my changes:
+### Changes Completed:
 
 **7/9/20**
 
@@ -18,11 +18,11 @@ A few of my changes:
 - Dark mode toggle (7/10/20)
 
 
-## Changes In Progress:
+### Changes In Progress:
 
 
 
-## Wishlist:
+### Wishlist:
  - YouTube/Vimeo video embed support
  - Number of comments beside date of each post on the homepage
  - Disqus comments under each post
