@@ -23,6 +23,6 @@ My fork of the [Primrose](https://github.com/microdotblog/theme-primrose) theme 
 
 
 ### Wishlist:
- - YouTube/Vimeo video embed support
- - Number of comments beside date of each post on the homepage
- - Disqus comments under each post
+ - Category listed next to date of post
+ - Public comments
+ - Micro.Blog comment count
