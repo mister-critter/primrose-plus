@@ -1,6 +1,6 @@
 # Microblog - Primrose PLUS
 
-My fork of the [Primrose Micro.Blog Hugo theme](https://github.com/microdotblog/theme-primrose) by Garth Braithwaite and Tim Smith.
+My fork of the [Primrose](https://github.com/microdotblog/theme-primrose) theme for Micro.Blog by Garth Braithwaite and Tim Smith.
 
 A few of my changes:
 
