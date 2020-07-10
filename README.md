@@ -11,6 +11,11 @@ A few of my changes:
 - Rounded my avatar photo
 - Probably some other minor things I forgot
 
-## Wishlist / In Progress:
+## Changes In Progress:
 
 - Dark mode toggle
+
+## Wishlist:
+ - YouTube/Vimeo video embed support
+ - Number of comments beside date of each post on the homepage
+ - Disqus comments under each post
