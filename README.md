@@ -4,6 +4,8 @@ My fork of the [Primrose](https://github.com/microdotblog/theme-primrose) theme 
 
 A few of my changes:
 
+**7/9/20**
+
 - Reduced number of posts on the home screen to 5 (this helps with load times as well, since my blog is slightly image-heavy)
 - Added and styled pagination at the bottom of the home page
 - Made various layout and responsive fixes to the Home, about, Photos, and Archive pages
@@ -11,9 +13,14 @@ A few of my changes:
 - Rounded my avatar photo
 - Probably some other minor things I forgot
 
+**7/10/20**
+
+- Dark mode toggle (7/10/20)
+
+
 ## Changes In Progress:
 
-- Dark mode toggle
+
 
 ## Wishlist:
  - YouTube/Vimeo video embed support
