@@ -7,6 +7,7 @@
     --bg-color: #ffffff;
     --heading-color: #000;
     --border-color: #eee;
+    --date-color: #6c695e;
 }
 
 [data-theme="dark"] {
@@ -16,6 +17,7 @@
     --bg-color: #333;
     --heading-color: #FFF;
     --border-color: #737373;
+    --date-color: #737373;
 }
 
 body {
@@ -147,7 +149,7 @@ ul {
 
 .post__footer a {
     font-family: 'Asap', sans-serif;
-    color: var(--border-color);
+    color: var(--date-color);
     text-decoration: none;
 }
 
@@ -203,7 +205,7 @@ a[href="/replies/"] {
 
 .archive_categories {
     text-align: center;
-    border-bottom: 1px solid #f5f5f5 !important;
+    border-bottom: 1px solid var(--border-color) !important;
     padding-bottom: 1.5rem !important;
     margin-bottom: 2rem !important;
 }
@@ -213,14 +215,14 @@ a[href="/replies/"] {
     display: inline-block;
     padding: .25rem .5rem;
     margin: 0 .5rem;
-    border: 1px solid #666;
+    border: 1px solid var(--primary-color);
     font-size: 1rem;
 }
 
 .archive_categories a {
     font-family: 'Asap', sans-serif;
     text-decoration: none;
-    color: #666;
+    color: var(--primary-color);
     border: 0px;
 }
 
